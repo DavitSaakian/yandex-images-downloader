@@ -1,6 +1,6 @@
-<b>Install Node.js, download package and write in cmd:</b>
+<b>Install Node.js, clone this project, open console inside project's directory and write these commands:</b>
 <br>
-npm install
+npm ci
 <br>
 node index
 <hr>
